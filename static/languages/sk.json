@@ -1,6 +1,6 @@
 {
   "heading": "Aký je podiel obnoviteľnej energie v energetickom mixe EÚ?",
-  "subheading": "Podiel energie vyrobenej z obnoviteľných zdrojov, ako je veterná alebo solárna energia, podľa krajín v Európskej únii v roku 2023.",
+  "subheading": "Podiel energie vyrobenej z obnoviteľných zdrojov v Európskej únii v roku 2023.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "vyrobené z obnoviteľných zdrojov",
   "textSourceDescription": "Zdroj",
@@ -9,23 +9,5 @@
   "textNote": "Hodnoty proxy 2023 odhaduje agentúra EEA.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
-  "textCountryClick": "Kliknite pre viac informácií",
-  "extraInfoText_BE": "Keďže potreba jednomyseľnosti spôsobuje v mnohých oblastiach byrokratickú prekážku, existuje určitá logika smerovania k hlasovaniu kvalifikovanou väčšinou tam, kde je to možné. V praxi kvalifikovaná väčšina znamená, že za niečo hlasuje 15 z 27 členských štátov, pokiaľ spolu predstavujú viac ako 65 percent zo 450 miliónov občanov EÚ.",
-  "extraInfoLink_BE": "Prečítajte si viac",
-  "extraInfoText_DE": "Asi nie je náhoda, že len o dva dni neskôr Európska komisia oznámila, že konečne spustí mechanizmus podmienenosti, ktorý spája vyplácanie eurofondov s dodržiavaním zásad právneho štátu. Budapešť čelí kritike za obmedzovanie slobody médií, konflikty záujmov a korupciu.",
-  "extraInfoLink_DE": "Prečítajte si viac",
-  "extraInfoText_ES": "",
-  "extraInfoLink_ES": "",
-  "extraInfoText_FR": "V tejto súvislosti bulharská vláda zriadila novú jednotku monitorovania médií. Nová jednotka je navrhnutá tak, aby monitorovala všetky formy médií z hľadiska cielených dezinformácií, ale – na rozdiel od nezávislej Rady pre elektronické médiá v krajine – nemá právomoc regulovať alebo sankcionovať. A ani by nemalo, zdôrazňuje Bozhanov v rozhovore pre bulharský národný rozhlas.",
-  "extraInfoLink_FR": "",
-  "extraInfoText_IT": "Štátny tajomník slovinského ministerstva zahraničia a člen konferenčného výboru Gašper Dovžan hovorí, že Slovinsko sa rozhodne nevyhýba odvážnym rozhodnutiam ani neodmieta možnosť posunu ku kvalifikovanej väčšine. Verí však, že stále existuje priestor na konsenzusné rozhodovanie.",
-  "extraInfoLink_IT": "Viac info",
-  "extraInfoText_LU": "Luxemburský europoslanec Marc Angel je však presvedčený, že zmeny v zmluve sú absolútne nevyhnutné – nielen preto, aby boli rozhodovacie postupy menej ťažkopádne, ale aj preto, aby sa rozšírila sféra kompetencií EÚ. V rozhovore pre luxemburskú národnú vysielaciu stanicu 100,7 tvrdí, že občania EÚ to počas konferencie jasne žiadali.",
-  "extraInfoLink_LU": "Prečítajte si viac",
-  "extraInfoText_PL": "Liutauras Gudzinskas, profesor politológie na Vilniuskej univerzite, pre Žinių Radijas hovorí, že hoci návrh Európskej komisie posilniť pluralitu a nezávislosť médií a chrániť ich pred politickými alebo obchodnými zásahmi by mohol byť v mnohých krajinách užitočným preventívnym nástrojom, je pravdepodobné, že pre Maďarsko neskoro.",
-  "extraInfoLink_PL": "Viac informácií",
-  "extraInfoText_RO": "Hoci je Svetový deň slobody tlače 3. mája, Litva oslavuje slobodu tlače každý rok 7. mája – pretože tento dátum znamená koniec cárskeho zákazu vydávania a distribúcie kníh v litovčine.",
-  "extraInfoLink_RO": "Skontrolujte toto",
-  "extraInfoText_SE": "",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Kliknite pre viac informácií"
 }
