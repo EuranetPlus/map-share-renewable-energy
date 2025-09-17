@@ -1,13 +1,13 @@
 {
-  "heading": "Cad é an sciar den fhuinneamh in-athnuaite i meascán fuinnimh an AE?",
-  "subheading": "Sciar fuinnimh a tháirgtear ó fhoinsí in-athnuaite san Aontas Eorpach in 2023.",
+  "heading": "Cad é sciar an fhuinnimh in-athnuaite i meascán fuinnimh an AE?",
+  "subheading": "Sciar den fhuinneamh a tháirgtear ó fhoinsí in-athnuaite san Aontas Eorpach in 2023.",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "a tháirgtear ó fhoinse in-athnuaite",
   "textSourceDescription": "Foinse",
-  "textSource": "An Ghníomhaireacht Eorpach Chomhshaoil",
+  "textSource": "Gníomhaireacht Chomhshaoil Eorpach",
   "textNoteDescription": "Nóta",
-  "textNote": "Measann an EEA luachanna seachfhreastalaí 2023.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://www.eea.europa.eu/ga/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
+  "textNote": "Déanann an LEE meastachán ar luachanna ionadaíocha 2023.",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

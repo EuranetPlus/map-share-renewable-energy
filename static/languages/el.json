@@ -2,11 +2,11 @@
   "heading": "Ποιο είναι το μερίδιο των ανανεώσιμων πηγών ενέργειας στο ενεργειακό μείγμα της ΕΕ;",
   "subheading": "Μερίδιο ενέργειας που παράγεται από ανανεώσιμες πηγές στην Ευρωπαϊκή Ένωση το 2023.",
   "legend1": "Δεν υπάρχουν διαθέσιμα δεδομένα",
-  "tooltip1": "παράγονται από ανανεώσιμες πηγές",
+  "tooltip1": "που παράγεται από ανανεώσιμες πηγές",
   "textSourceDescription": "Πηγή",
   "textSource": "Ευρωπαϊκός Οργανισμός Περιβάλλοντος",
   "textNoteDescription": "Σημείωμα",
-  "textNote": "Οι τιμές μεσολάβησης 2023 εκτιμώνται από τον ΕΟΧ.",
+  "textNote": "Οι τιμές προσεγγιστικού 2023 εκτιμώνται από τον ΕΟΠ.",
   "textDataAccess": "Πρόσβαση στα δεδομένα",
   "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
   "textCountryClick": "Κάντε κλικ για περισσότερες πληροφορίες"

@@ -1,13 +1,13 @@
 {
   "heading": "Mekkora a megújuló energia aránya az EU energiamixében?",
-  "subheading": "A megújuló forrásokból előállított energia aránya az Európai Unióban 2023-ban.",
-  "legend1": "Nincs adat",
-  "tooltip1": "megújuló forrásból előállítva",
+  "subheading": "A megújuló energiaforrásokból termelt energia aránya az Európai Unióban 2023-ban.",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltip1": "megújuló forrásból előállított",
   "textSourceDescription": "Forrás",
   "textSource": "Európai Környezetvédelmi Ügynökség",
   "textNoteDescription": "Jegyzet",
-  "textNote": "A 2023-as proxy értékeket az EEA becsüli meg.",
+  "textNote": "A 2023-as helyettesítő értékeket az EEA becsülte meg.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

@@ -1,13 +1,13 @@
 {
   "heading": "X'inhu s-sehem tal-enerġija rinnovabbli fit-taħlita tal-enerġija tal-UE?",
-  "subheading": "Sehem tal-enerġija prodotta minn sorsi rinnovabbli fl-Unjoni Ewropea fl-2023.",
-  "legend1": "Ebda data disponibbli",
+  "subheading": "Is-sehem tal-enerġija prodotta minn sorsi rinnovabbli fl-Unjoni Ewropea fl-2023.",
+  "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "prodott minn sors rinnovabbli",
   "textSourceDescription": "Sors",
   "textSource": "Aġenzija Ewropea għall-Ambjent",
   "textNoteDescription": "Nota",
-  "textNote": "Il-valuri tal-proxy 2023 huma stmati mill-EEA.",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "Il-valuri proxy tal-2023 huma stmati mill-EEA.",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

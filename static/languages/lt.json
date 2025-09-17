@@ -1,13 +1,13 @@
 {
-  "heading": "Kokią atsinaujinančios energijos dalį sudaro ES energijos šaltiniai?",
-  "subheading": "Energijos, pagamintos iš atsinaujinančių šaltinių, dalis Europos Sąjungoje 2023 m.",
+  "heading": "Kokia yra atsinaujinančiosios energijos dalis ES energijos derinyje?",
+  "subheading": "Iš atsinaujinančių išteklių pagamintos energijos dalis Europos Sąjungoje 2023 m.",
   "legend1": "Nėra duomenų",
-  "tooltip1": "pagamintas iš atsinaujinančių šaltinių",
+  "tooltip1": "pagaminta iš atsinaujinančių šaltinių",
   "textSourceDescription": "Šaltinis",
   "textSource": "Europos aplinkos agentūra",
   "textNoteDescription": "Pastaba",
-  "textNote": "2023 m. proxy vertes apskaičiavo EAA.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "2023 m. pakaitines vertes įvertino EAA.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

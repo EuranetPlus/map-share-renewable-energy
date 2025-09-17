@@ -1,13 +1,13 @@
 {
-  "heading": "Hvad er andelen af vedvarende energi i EU’s energimix?",
-  "subheading": "Andel af energi produceret fra vedvarende kilder i EU i 2023.",
-  "legend1": "Ingen tilgængelige data",
-  "tooltip1": "produceret fra vedvarende energikilder",
+  "heading": "Hvad er andelen af vedvarende energi i EU's energimiks?",
+  "subheading": "Andel af energi produceret fra vedvarende energikilder i Den Europæiske Union i 2023.",
+  "legend1": "Ingen data tilgængelige",
+  "tooltip1": "produceret fra vedvarende kilde",
   "textSourceDescription": "Kilde",
   "textSource": "Det Europæiske Miljøagentur",
   "textNoteDescription": "Note",
-  "textNote": "Proxy 2023-værdier estimeres af EEA.",
-  "textDataAccess": "Få adgang til data",
+  "textNote": "Proxyværdier for 2023 er estimeret af EEA.",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
-  "textCountryClick": "Klik for mere info"
+  "textCountryClick": "Klik for mere information"
 }

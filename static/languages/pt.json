@@ -1,13 +1,13 @@
 {
   "heading": "Qual é a quota de energia renovável no cabaz energético da UE?",
   "subheading": "Percentagem de energia produzida a partir de fontes renováveis na União Europeia em 2023.",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Nenhum dado disponível",
   "tooltip1": "produzido a partir de fonte renovável",
   "textSourceDescription": "Fonte",
   "textSource": "Agência Europeia do Ambiente",
   "textNoteDescription": "Observação",
-  "textNote": "Os valores Proxy 2023 são estimados pela EEA.",
+  "textNote": "Os valores Proxy 2023 são estimados pela AEA.",
   "textDataAccess": "Acesse os dados",
-  "linkDataAccess": "https://www.eea.europa.eu/en/análise/indicadores/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewables?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
   "textCountryClick": "Clique para mais informações"
 }

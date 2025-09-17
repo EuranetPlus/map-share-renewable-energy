@@ -1,13 +1,13 @@
 {
   "heading": "Jaki jest udział energii odnawialnej w miksie energetycznym UE?",
-  "subheading": "Udział energii wytworzonej ze źródeł odnawialnych w Unii Europejskiej w 2023 r.",
+  "subheading": "Udział energii wytwarzanej ze źródeł odnawialnych w Unii Europejskiej w 2023 r.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "wyprodukowano ze źródła odnawialnego",
   "textSourceDescription": "Źródło",
   "textSource": "Europejska Agencja Środowiska",
   "textNoteDescription": "Notatka",
   "textNote": "Wartości przybliżone na rok 2023 zostały oszacowane przez EEA.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analytic/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
+  "textDataAccess": "Dostęp do danych",
+  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewables?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

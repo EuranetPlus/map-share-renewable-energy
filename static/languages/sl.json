@@ -1,12 +1,12 @@
 {
   "heading": "Kakšen je delež obnovljivih virov energije v energetski mešanici EU?",
   "subheading": "Delež energije, proizvedene iz obnovljivih virov v Evropski uniji leta 2023.",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
   "tooltip1": "proizvedeno iz obnovljivih virov",
   "textSourceDescription": "Vir",
   "textSource": "Evropska agencija za okolje",
   "textNoteDescription": "Opomba",
-  "textNote": "Vrednosti proxy 2023 je ocenil EEA.",
+  "textNote": "Vrednosti za leto 2023, ki jih je ocenila EEA, so približni podatki.",
   "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
   "textCountryClick": "Kliknite za več informacij"

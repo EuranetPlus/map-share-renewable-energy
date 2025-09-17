@@ -1,12 +1,12 @@
 {
-  "heading": "Aký je podiel obnoviteľnej energie v energetickom mixe EÚ?",
+  "heading": "Aký je podiel obnoviteľných zdrojov energie v energetickom mixe EÚ?",
   "subheading": "Podiel energie vyrobenej z obnoviteľných zdrojov v Európskej únii v roku 2023.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltip1": "vyrobené z obnoviteľných zdrojov",
+  "tooltip1": "vyrobené z obnoviteľného zdroja",
   "textSourceDescription": "Zdroj",
   "textSource": "Európska environmentálna agentúra",
   "textNoteDescription": "Poznámka",
-  "textNote": "Hodnoty proxy 2023 odhaduje agentúra EEA.",
+  "textNote": "Zástupné hodnoty za rok 2023 odhaduje EEA.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
   "textCountryClick": "Kliknite pre viac informácií"

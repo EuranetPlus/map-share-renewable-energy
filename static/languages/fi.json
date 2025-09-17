@@ -1,13 +1,13 @@
 {
-  "heading": "Mikä on uusiutuvan energian osuus EU:n energiavalikoimasta?",
+  "heading": "Mikä on uusiutuvan energian osuus EU:n energiapaletissa?",
   "subheading": "Uusiutuvista lähteistä tuotetun energian osuus Euroopan unionissa vuonna 2023.",
-  "legend1": "Tietoja ei ole saatavilla",
-  "tooltip1": "tuotettu uusiutuvista lähteistä",
+  "legend1": "Ei tietoja saatavilla",
+  "tooltip1": "tuotettu uusiutuvasta lähteestä",
   "textSourceDescription": "Lähde",
   "textSource": "Euroopan ympäristökeskus",
-  "textNoteDescription": "Huom",
-  "textNote": "Proxy 2023 -arvot ovat ETA:n arvioimia.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Vuoden 2023 sijaisarvot ovat EYK:n arvioita.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }
