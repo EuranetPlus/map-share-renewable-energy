@@ -1,13 +1,13 @@
 {
   "heading": "Qual è la quota di energia rinnovabile nel mix energetico dell’UE?",
-  "subheading": "Quota di energia prodotta da fonti rinnovabili nell'Unione Europea nel 2023.",
+  "subheading": "Quota di energia prodotta da fonti rinnovabili nell'Unione Europea nel 2024.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "prodotto da fonti rinnovabili",
   "textSourceDescription": "Fonte",
-  "textSource": "Agenzia europea dell'ambiente",
+  "textSource": "Eurostat (2024)",
   "textNoteDescription": "Nota",
-  "textNote": "I valori proxy del 2023 sono stimati dall'EEA.",
+  "textNote": "Le cifre mostrano le quote di fonti energetiche rinnovabili nell'UE e negli Stati membri nel consumo finale lordo di energia per il 2024. Media UE: 25,23%",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_ren__custom_19664821/default/table",
   "textCountryClick": "Clicca per maggiori informazioni"
 }

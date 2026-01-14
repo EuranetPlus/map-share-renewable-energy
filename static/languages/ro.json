@@ -1,13 +1,13 @@
 {
   "heading": "Care este ponderea energiei regenerabile în mixul energetic al UE?",
-  "subheading": "Ponderea energiei produse din surse regenerabile în Uniunea Europeană în 2023.",
+  "subheading": "Ponderea energiei produse din surse regenerabile în Uniunea Europeană în 2024.",
   "legend1": "Nu sunt disponibile date",
   "tooltip1": "produs din surse regenerabile",
   "textSourceDescription": "Sursă",
-  "textSource": "Agenția Europeană de Mediu",
+  "textSource": "Eurostat (2024)",
   "textNoteDescription": "Nota",
-  "textNote": "Valorile indirecte pentru 2023 sunt estimate de SEE.",
+  "textNote": "Cifrele arată ponderile surselor de energie regenerabilă în consumul final brut de energie la nivelul UE și al statelor membre pentru 2024. Media UE: 25,23%",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://www.eea.europa.eu/ro/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_ren__custom_19664821/default/table",
   "textCountryClick": "Faceți clic pentru mai multe informații"
 }

@@ -1,13 +1,13 @@
 {
   "heading": "Kāda ir atjaunojamo energoresursu daļa ES energoresursu struktūrā?",
-  "subheading": "No atjaunojamajiem energoresursiem saražotās enerģijas īpatsvars Eiropas Savienībā 2023. gadā.",
+  "subheading": "No atjaunojamajiem energoresursiem saražotās enerģijas īpatsvars Eiropas Savienībā 2024. gadā.",
   "legend1": "Dati nav pieejami",
   "tooltip1": "ražots no atjaunojamiem avotiem",
   "textSourceDescription": "Avots",
-  "textSource": "Eiropas Vides aģentūra",
+  "textSource": "Eurostat (2024)",
   "textNoteDescription": "Piezīme",
-  "textNote": "EVA ir aplēsusi 2023. gada aizstājējvērtības.",
+  "textNote": "Skaitļi parāda ES un dalībvalstu atjaunojamo energoresursu īpatsvaru bruto enerģijas galapatēriņā 2024. gadā. ES vidējais rādītājs: 25,23 %.",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_ren__custom_19664821/default/table",
   "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

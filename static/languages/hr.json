@@ -1,13 +1,13 @@
 {
   "heading": "Koliki je udio obnovljivih izvora energije u energetskom miksu EU?",
-  "subheading": "Udio energije proizvedene iz obnovljivih izvora u Europskoj uniji u 2023. godini.",
+  "subheading": "Udio energije proizvedene iz obnovljivih izvora u Europskoj uniji u 2024. godini.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "proizvedeno iz obnovljivog izvora",
   "textSourceDescription": "Izvor",
-  "textSource": "Europska agencija za okoliš",
+  "textSource": "Eurostat (2024.)",
   "textNoteDescription": "Bilješka",
-  "textNote": "Zamjenske vrijednosti za 2023. procjenjuje EEA.",
+  "textNote": "Brojke pokazuju udjele obnovljivih izvora energije u bruto konačnoj potrošnji energije u EU i državama članicama za 2024. godinu. Prosjek EU: 25,23%",
   "textDataAccess": "Pristup podacima",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_ren__custom_19664821/default/table",
   "textCountryClick": "Kliknite za više informacija"
 }

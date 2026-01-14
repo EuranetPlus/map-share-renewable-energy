@@ -1,13 +1,13 @@
 {
   "heading": "Mekkora a megújuló energia aránya az EU energiamixében?",
-  "subheading": "A megújuló energiaforrásokból termelt energia aránya az Európai Unióban 2023-ban.",
+  "subheading": "A megújuló energiaforrásokból termelt energia aránya az Európai Unióban 2024-ben.",
   "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "megújuló forrásból előállított",
   "textSourceDescription": "Forrás",
-  "textSource": "Európai Környezetvédelmi Ügynökség",
+  "textSource": "Eurostat (2024)",
   "textNoteDescription": "Jegyzet",
-  "textNote": "A 2023-as helyettesítő értékeket az EEA becsülte meg.",
+  "textNote": "Az adatok az EU és a tagállamok megújuló energiaforrásainak bruttó végső energiafogyasztáson belüli részesedését mutatják 2024-re vonatkozóan. EU átlag: 25,23%",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_ren__custom_19664821/default/table",
   "textCountryClick": "Kattintson a további információkért"
 }

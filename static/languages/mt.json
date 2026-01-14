@@ -1,13 +1,13 @@
 {
   "heading": "X'inhu s-sehem tal-enerġija rinnovabbli fit-taħlita tal-enerġija tal-UE?",
-  "subheading": "Is-sehem tal-enerġija prodotta minn sorsi rinnovabbli fl-Unjoni Ewropea fl-2023.",
+  "subheading": "Is-sehem tal-enerġija prodotta minn sorsi rinnovabbli fl-Unjoni Ewropea fl-2024.",
   "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "prodott minn sors rinnovabbli",
   "textSourceDescription": "Sors",
-  "textSource": "Aġenzija Ewropea għall-Ambjent",
+  "textSource": "L-Eurostat (2024)",
   "textNoteDescription": "Nota",
-  "textNote": "Il-valuri proxy tal-2023 huma stmati mill-EEA.",
+  "textNote": "Iċ-ċifri juru s-sehem tal-UE u tal-Istati Membri minn sorsi ta’ enerġija rinnovabbli fil-konsum gross finali tal-enerġija għall-2024. Medja tal-UE: 25.23%",
   "textDataAccess": "Aċċessa d-dejta",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_ren__custom_19664821/default/table",
   "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

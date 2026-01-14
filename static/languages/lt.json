@@ -1,13 +1,13 @@
 {
   "heading": "Kokia yra atsinaujinančiosios energijos dalis ES energijos derinyje?",
-  "subheading": "Iš atsinaujinančių išteklių pagamintos energijos dalis Europos Sąjungoje 2023 m.",
+  "subheading": "Iš atsinaujinančių išteklių pagamintos energijos dalis Europos Sąjungoje 2024 m.",
   "legend1": "Nėra duomenų",
   "tooltip1": "pagaminta iš atsinaujinančių šaltinių",
   "textSourceDescription": "Šaltinis",
-  "textSource": "Europos aplinkos agentūra",
+  "textSource": "Eurostatas (2024 m.)",
   "textNoteDescription": "Pastaba",
-  "textNote": "2023 m. pakaitines vertes įvertino EAA.",
+  "textNote": "Skaičiai rodo ES ir valstybių narių atsinaujinančiųjų energijos išteklių dalį bendrame galutiniame energijos suvartojime 2024 m. ES vidurkis: 25,23 %.",
   "textDataAccess": "Prieiga prie duomenų",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_ren__custom_19664821/default/table",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

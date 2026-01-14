@@ -1,13 +1,13 @@
 {
   "heading": "Cad é sciar an fhuinnimh in-athnuaite i meascán fuinnimh an AE?",
-  "subheading": "Sciar den fhuinneamh a tháirgtear ó fhoinsí in-athnuaite san Aontas Eorpach in 2023.",
+  "subheading": "Sciar den fhuinneamh a tháirgtear ó fhoinsí in-athnuaite san Aontas Eorpach in 2024.",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "a tháirgtear ó fhoinse in-athnuaite",
   "textSourceDescription": "Foinse",
-  "textSource": "Gníomhaireacht Chomhshaoil Eorpach",
+  "textSource": "Eurostat (2024)",
   "textNoteDescription": "Nóta",
-  "textNote": "Déanann an LEE meastachán ar luachanna ionadaíocha 2023.",
+  "textNote": "Léiríonn na figiúirí sciar an AE agus na mBallstát de fhoinsí fuinnimh in-athnuaite i dtomhaltas fuinnimh deiridh comhlán do 2024. Meán an AE: 25.23%",
   "textDataAccess": "Rochtain ar na sonraí",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_ren__custom_19664821/default/table",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

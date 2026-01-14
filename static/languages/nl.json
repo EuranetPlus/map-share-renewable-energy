@@ -1,13 +1,13 @@
 {
-  "heading": "Wat is het aandeel hernieuwbare energie in de energiemix van de EU?",
-  "subheading": "Aandeel energie uit hernieuwbare bronnen in de Europese Unie in 2023.",
+  "heading": "Wat is het aandeel van hernieuwbare energie in de energiemix van de EU?",
+  "subheading": "Aandeel van de energieproductie uit hernieuwbare bronnen in de Europese Unie in 2024.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "geproduceerd uit hernieuwbare bronnen",
   "textSourceDescription": "Bron",
-  "textSource": "Europees Milieuagentschap",
+  "textSource": "Eurostat (2024)",
   "textNoteDescription": "Opmerking",
-  "textNote": "De proxywaarden voor 2023 zijn geschat door het EEA.",
+  "textNote": "De cijfers tonen het aandeel van hernieuwbare energiebronnen in het bruto-eindverbruik van energiebronnen in de EU en de lidstaten voor 2024. Gemiddelde EU: 25,23%",
   "textDataAccess": "Toegang tot de gegevens",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
-  "textCountryClick": "Klik voor meer informatie"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_ren__custom_19664821/default/table",
+  "textCountryClick": "Klik hier voor meer informatie"
 }

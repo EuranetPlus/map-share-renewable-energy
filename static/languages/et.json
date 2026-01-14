@@ -1,13 +1,13 @@
 {
   "heading": "Milline on taastuvenergia osakaal ELi energiaallikate jaotuses?",
-  "subheading": "Taastuvatest energiaallikatest toodetud energia osakaal Euroopa Liidus 2023. aastal.",
+  "subheading": "Taastuvatest energiaallikatest toodetud energia osakaal Euroopa Liidus 2024. aastal.",
   "legend1": "Andmed pole saadaval",
   "tooltip1": "toodetud taastuvast allikast",
   "textSourceDescription": "Allikas",
-  "textSource": "Euroopa Keskkonnaagentuur",
+  "textSource": "Eurostat (2024)",
   "textNoteDescription": "Märkus",
-  "textNote": "2023. aasta asendusväärtused on EEA hinnanguline väärtus.",
+  "textNote": "Arvud näitavad taastuvate energiaallikate osakaalu ELi ja liikmesriikide energia lõpptarbimises 2024. aastal. ELi keskmine: 25,23%",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_ren__custom_19664821/default/table",
   "textCountryClick": "Lisateabe saamiseks klõpsake"
 }

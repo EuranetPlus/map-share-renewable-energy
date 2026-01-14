@@ -1,13 +1,13 @@
 {
   "heading": "Aký je podiel obnoviteľných zdrojov energie v energetickom mixe EÚ?",
-  "subheading": "Podiel energie vyrobenej z obnoviteľných zdrojov v Európskej únii v roku 2023.",
+  "subheading": "Podiel energie vyrobenej z obnoviteľných zdrojov v Európskej únii v roku 2024.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "vyrobené z obnoviteľného zdroja",
   "textSourceDescription": "Zdroj",
-  "textSource": "Európska environmentálna agentúra",
+  "textSource": "Eurostat (2024)",
   "textNoteDescription": "Poznámka",
-  "textNote": "Zástupné hodnoty za rok 2023 odhaduje EEA.",
+  "textNote": "Údaje ukazujú podiely obnoviteľných zdrojov energie v EÚ a členských štátoch na hrubej konečnej spotrebe energie za rok 2024. Priemer EÚ: 25,23 %",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_ren__custom_19664821/default/table",
   "textCountryClick": "Kliknite pre viac informácií"
 }
