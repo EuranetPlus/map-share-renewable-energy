@@ -1,13 +1,13 @@
 {
   "heading": "What is the share of renewable energy in the EU’s energy mix?",
-  "subheading": "Share of energy produced from renewable sources in the European Union in 2023.",
+  "subheading": "Share of energy produced from renewable sources in the European Union in 2024.",
   "legend1": "No data available",
   "tooltip1": "produced from renewable source",
   "textSourceDescription": "Source",
-  "textSource": "European Environment Agency",
+  "textSource": "Eurostat (2024)",
   "textNoteDescription": "Note",
-  "textNote": "Proxy 2023 values are estimated by the EEA.",
+  "textNote": "The figures show EU and Member State shares of renewable energy sources in gross final energy consumption for 2024. EU average: 25.23%",
   "textDataAccess": "Access the data",
-  "linkDataAccess": "https://www.eea.europa.eu/en/analysis/indicators/share-of-energy-consumption-from/share-of-energy-from-renewable?activeTab=6fbd444d-c422-4a78-8492-fd496bd61b7a",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_ren__custom_19664821/default/table",
   "textCountryClick": "Click for more info"
 }
